@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Temporary demo files
+.temp_demo.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*

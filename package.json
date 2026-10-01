@@ -1,0 +1,31 @@
+{
+  "name": "smart-utility-toolkit",
+  "version": "1.0.0",
+  "description": "Node.js Backend Lab Assignment 1 - Smart Utility Toolkit built using standard Node.js Core Modules without third-party dependencies.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js",
+    "server": "node server.js",
+    "calc": "node calculator.js",
+    "dice": "node dice.js",
+    "file": "node fileManager.js",
+    "file:demo": "node fileManager.js demo"
+  },
+  "keywords": [
+    "nodejs",
+    "core-modules",
+    "lab-assignment",
+    "backend",
+    "cli-calculator",
+    "crypto-dice",
+    "file-manager",
+    "http-server",
+    "event-loop"
+  ],
+  "author": "Vedansh (Roll No: 2501730211 | B.Tech CSE AI-ML Sec F)",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
