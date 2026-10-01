@@ -278,3 +278,5 @@ npm run server     # Starts native HTTP server on port 3000
 - **Zero External Dependencies:** Verified with `npm list` (no `node_modules` required).
 - **Core Node.js APIs Only:** Strictly adheres to native Node.js specifications.
 - **Code Author:** Vedansh (Roll No: 2501730211, B.Tech CSE AI-ML Section F).
+#   w e b - d e v - 4  
+ 
